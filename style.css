@@ -10,7 +10,7 @@ body{
     text-align: center;
 }
 #output{
-    height: 500px;
+    height: auto;
     background-color: rgb(99, 94, 94);
     padding: 30px;
     font-size: x-large;

@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(47, 47, 49);
+    color: whitesmoke;
+}
+.dv{
+    width: 80%;
+    margin: auto;
+    border-radius: 50px;
+    margin-top: 50px;
+    text-align: center;
+}
+#output{
+    height: 500px;
+    background-color: rgb(99, 94, 94);
+    padding: 30px;
+    font-size: x-large;
+    font-family: monospace;
+}
